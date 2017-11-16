@@ -32,7 +32,7 @@ for character in encodedBitmap {
     print(character)
 }
 
-// I notice that...
+// I notice that... The times it loops is the amount of numbers in the string, the string also changes everytime we run the code.
 /*:
  Now, **remember to commit and push your work**.
  */
