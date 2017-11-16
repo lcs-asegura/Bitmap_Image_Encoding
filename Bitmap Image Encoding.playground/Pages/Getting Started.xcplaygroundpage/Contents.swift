@@ -15,7 +15,8 @@ import PlaygroundSupport
  */
 let encodedBitmap = getEncodedBitmapString()
 
-// I notice that...
+// I notice that... The playground wont run because of an error and everytime we run the string we get a new line of 1's and 0's
 /*:
  Now, **remember to commit and push your work**.
  */
+
